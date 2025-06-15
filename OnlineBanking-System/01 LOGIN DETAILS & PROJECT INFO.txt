@@ -1,0 +1,16 @@
+**Log on to codeastro.com for more projects!***
+
+**Online Banking System**
+**Version 1.0**
+**Developed by Guruprasad Patil**
+**Contact: guruprasadpatil@gmail.com**
+
+**Database Name: onlinebanking**
+
+**Recommended PHP Version 5, 7, 8**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro.com
